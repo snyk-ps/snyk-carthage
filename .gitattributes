@@ -1,0 +1,4 @@
+snyk-macos-arm64 filter=lfs diff=lfs merge=lfs -text
+snyk-macos-amd64 filter=lfs diff=lfs merge=lfs -text
+snyk-linux-amd64 filter=lfs diff=lfs merge=lfs -text
+snyk-linux-arm64 filter=lfs diff=lfs merge=lfs -text
